@@ -1,0 +1,16 @@
+.header-container .form-control {
+    max-width: 200px;
+}
+
+.header-container .btn-link {
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 1030;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

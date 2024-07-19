@@ -1,0 +1,31 @@
+html,
+body,
+#root {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header-container {
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.sidebar-container {
+    border-right: 1px solid #e0e0e0;
+    width: 250px;
+}
+
+.contacts-list {
+    width: 100%;
+}
+
+.contacts-list h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}

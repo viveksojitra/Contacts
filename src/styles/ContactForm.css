@@ -1,0 +1,17 @@
+.create-contact {
+    margin-top: 50px;
+}
+
+.create-contact h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.create-contact .form-group {
+    margin-bottom: 20px;
+}
+
+.create-contact .btn {
+    width: 100%;
+    padding: 10px;
+}

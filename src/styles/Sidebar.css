@@ -1,0 +1,14 @@
+.sidebar-container {
+    overflow-y: auto;
+    height: 100vh;
+}
+
+.sidebar-container .nav-link {
+    padding: 0.75rem 1rem;
+    color: #000;
+    font-weight: 500;
+}
+
+.sidebar-container .nav-link:hover {
+    background-color: #f1f1f1;
+}
